@@ -1,6 +1,6 @@
 # Discord.Addons.HelpCommand
 
-Services to build your customized help command.
+Services to build your customized help command using Discord.NET.
 
 ## Getting Started
 
